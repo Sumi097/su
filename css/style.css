@@ -1,0 +1,97 @@
+.header{
+height:100px ;
+background-color: rgb(236, 118, 140);
+text-align: center;
+color: black;
+}
+.feature{
+    height: 80px;
+    background-color: rgb(200, 120, 120);
+    text-align: center; 
+    margin-bottom: 1%;
+
+
+}
+.column{
+display: flex;
+background-color: rgb(204, 228, 228);
+}
+.one{
+background-color: rgb(222, 158, 135);
+width: 33%;
+text-align: center;
+margin-right: 1%;
+}
+.two{
+    background-color: rgb(222, 158, 135);
+    width: 33%;
+    text-align: center;
+    margin-right: 1%;
+    }
+
+.three{
+    background-color: rgb(222, 158, 135);
+    width: 33%;
+    text-align: center;
+    margin-right:
+    }
+
+
+.side{ 
+    display: flex;
+    margin-top: 1%;
+
+}
+.left{
+    width: 30%;
+    height: 300px;
+    background-color: rgb(222, 209, 157);
+    text-align: center;
+
+}
+.right{ width: 70%;
+    background-color: rgb(219, 219, 184);
+    margin-left: 1%;
+    
+
+}
+.artical{
+height: 100px;
+width: ;
+background-color: rgb(192, 78, 78);
+text-align: center;
+
+}
+.bottom{ display: flex; 
+    margin-top: 2%;
+    
+
+}
+.image{
+    width: 30%;
+    height: 100px;
+    text-align: center;
+    background-color:rgb(177, 76, 167) ; color: black; 
+    margin-right: 4%; 
+
+}
+.content{
+    width: 30%;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(197, 110, 181); 
+    margin-left: 4%;
+}
+.four{
+    width: 30%;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(188, 88, 135); 
+    margin-left: 4%;
+}
+.footer{
+    height: 100px;
+    background-color: rgb(141, 186, 141);
+    text-align: center;
+
+}
